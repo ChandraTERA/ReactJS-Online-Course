@@ -11,6 +11,15 @@
 </p>
 <br/>
 
+---
+
+# Vite Plugin React
+
+See [`@vitejs/plugin-react` documentation](packages/plugin-react/README.md) and [`@vitejs/plugin-react-swc` documentation](packages/plugin-react-swc/README.md)
+
+# Vite Plugin RSC
+
+See [`@vitejs/plugin-rsc` documentation](packages/plugin-rsc/README.md)
 
 ## 🧩 Environment Versions
 
@@ -21,14 +30,6 @@
 | @vitejs/plugin-react        | v4.2.1         | Plugin resmi React untuk Vite, mendukung Fast Refresh & JSX transformasi  |
 
 ---
-
-# Vite Plugin React
-
-See [`@vitejs/plugin-react` documentation](packages/plugin-react/README.md) and [`@vitejs/plugin-react-swc` documentation](packages/plugin-react-swc/README.md)
-
-# Vite Plugin RSC
-
-See [`@vitejs/plugin-rsc` documentation](packages/plugin-rsc/README.md)
 
 ## 📦 Packages (klik untuk changelog)
 
