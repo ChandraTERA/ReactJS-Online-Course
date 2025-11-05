@@ -1,7 +1,9 @@
 export const partnersSection = {
     content: `<p className="deskripsi">Our Top Partners</p>
                             <h2>Partners</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi magni tempore expedita sequi. Similique rerum doloremque impedit saepe atque maxime.</p>`
+                            <p>We collaborate with leading universities worldwide that share our vision for
+      advancing online education. Together, we create innovative and industry-relevant
+      learning experiences that empower students to achieve their goals.</p>`
 }
 
 export const partnersList = [
