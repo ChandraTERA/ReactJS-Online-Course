@@ -1,7 +1,7 @@
 export const tutorsSection = {
     content: `<p className="deskripsi">Our Top Tutors</p>
                             <h2>Tutors</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, optio!</p>`
+                            <p>Berikut ini para tutor yang telah memberikan bimbingan kepada anggota yang mendaftar di platform kami</p>`
 }
 
 export const tutorsList = [
